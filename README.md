@@ -15,5 +15,5 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
-<a href="https://vercel.com/lorenas-projects/star-wars-angularproject" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lorena-ponsico" height="30" width="40" /></a>
+<a href="https://star-wars-angularproject.vercel.app/"> Star Wars </a>
 </p>
