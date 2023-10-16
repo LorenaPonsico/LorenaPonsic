@@ -15,15 +15,15 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
+<a href="https://eventopia-front-angular.vercel.app/inicio"> Eventopia </a>
+</p>
+<p align="left">
 <a href="https://star-wars-angularproject.vercel.app/"> Star Wars </a>
 </p>
 <p align="left">
 <a href="https://giffs-app-angular.vercel.app/"> Gifs App </a>
 </p>
 
-<p align="left">
-<a href="https://eventopia-front-angular.vercel.app/inicio"> Eventopia </a>
-</p>
 
 
 
