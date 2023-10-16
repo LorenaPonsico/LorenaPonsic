@@ -21,5 +21,9 @@
 <a href="https://giffs-app-angular.vercel.app/"> Gifs App </a>
 </p>
 
+<p align="left">
+<a href="https://eventopia-front-angular.vercel.app/inicio"> Eventopia </a>
+</p>
+
 
 
