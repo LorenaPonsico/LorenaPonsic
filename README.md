@@ -15,9 +15,6 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
-<a href="https://preguntasyrespuestasangular.netlify.app"> Preguntas y Respuestas </a>
-</p>
-<p align="left">
 <a href="https://eventopia-front-angular.vercel.app/inicio"> Eventopia </a>
 </p>
 <p align="left">
