@@ -23,6 +23,10 @@
 <p align="left">
 <a href="https://giffs-app-angular.vercel.app/"> Gifs App </a>
 </p>
+<p align="left">
+<a href="https://melodic-arithmetic-90d70f.netlify.app/"> Dragon Ball Z Characters </a>
+</p>
+
 
 
 
