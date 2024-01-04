@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorena</h1>
-<h3 align="center">A passionate frontend developer from Barcelona</h3>
+<h3 align="center">A passionate Frontend Developer from Barcelona</h3>
 
 - 🔭 I’m currently working on **projects at IT Academy**
 
